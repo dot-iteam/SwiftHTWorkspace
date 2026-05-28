@@ -5,7 +5,6 @@
 //  Created by Dot iTeam on 2026-05-27.
 //
 
-import SQLite3
 public extension HTAttribute {
     @inlinable
     static func accept(_ value: String) -> HTAttribute {
